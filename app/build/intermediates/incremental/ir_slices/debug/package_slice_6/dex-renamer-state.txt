@@ -1,0 +1,4 @@
+#Mon Jul 29 17:19:43 IST 2019
+base.0=C\:\\Users\\VIKAS VERMA\\Desktop\\MY PROJECT\\DMRC_P\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

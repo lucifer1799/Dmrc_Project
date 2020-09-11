@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context=".Contact_info">
+
+    <TextView
+        android:id="@+id/id_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="9dp"
+        android:layout_marginLeft="9dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="0dp"
+        android:text="Enter Your Contact Information :"
+        android:textColor="@color/colorAccent"
+        android:textSize="25dp" />
+
+    <EditText
+        android:id="@+id/id_altemail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/id_text"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="0dp"
+        android:ems="10"
+        android:hint="Enter Your Alternate Email :"
+        android:padding="10dp"
+        android:inputType="textPersonName"
+        android:textColor="@android:color/white" />
+
+    <EditText
+        android:id="@+id/id_mono"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/id_altemail"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="0dp"
+        android:ems="10"
+        android:hint="Enter Your Mobile Number :"
+        android:inputType="textPersonName"
+        android:padding="10dp"
+        android:textColor="@android:color/white" />
+
+    <EditText
+        android:id="@+id/id_tphoneno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/id_mono"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="0dp"
+        android:ems="10"
+        android:hint="Enter Your Telephone Number :"
+        android:inputType="textPersonName"
+        android:padding="10dp"
+        android:textColor="@android:color/white" />
+
+    <EditText
+        android:id="@+id/id_state"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/id_tphoneno"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="0dp"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:hint="Enter Your State :"
+        android:padding="10dp"
+        android:textColor="@android:color/white" />
+
+    <EditText
+        android:id="@+id/id_lcity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/id_state"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="0dp"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:hint="Enter your local city :"
+        android:padding="10dp"
+        android:textColor="@android:color/white" />
+
+    <EditText
+        android:id="@+id/id_pin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/id_lcity"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="0dp"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:hint="Enter Your Pin Code :"
+        android:padding="10dp"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/id_pin"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorAccent"
+        android:text="Submit" />
+
+    <Button
+        android:id="@+id/btn_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_submit"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="Next" />
+
+</RelativeLayout>

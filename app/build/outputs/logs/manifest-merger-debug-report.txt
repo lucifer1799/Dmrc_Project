@@ -1,0 +1,256 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [net.gotev:uploadservice:2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\uploadservice-2.1.aar\4eacf42a2f060a1a5d28a0e232051642\AndroidManifest.xml:2:1-23:12
+MERGED from [com.williamww:silky-signature:0.1.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\silky-signature-0.1.0.aar\9cb7273ebb8475cafc479876bab4ba16\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\052ec8ab2ecd003d52b890bb54f36e39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d4bc1533589e50c42e86d8d1339f07e1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.gcacace:signature-pad:1.2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\signature-pad-1.2.1.aar\42e5ad24c5b4f93977eb0a8c5217ce0f\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.databinding:adapters:1.2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\adapters-1.2.1.aar\d860d4e07a3f7f87fe34b789f311ec9c\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.databinding:library:1.2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\library-1.2.1.aar\46131ed66e0c03adaca799136e216aec\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\55a0fb8f4f7c0dfa12c56ff878423f10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\bb33191bc238536025a08500caa6624b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c20d1d232d929dd8a92a93f2aa1f6548\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a16c11b32302efb2eca2e683ed71f0d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f5120be50af7cf76c3de553f075b1483\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3edfc0f4fd35f85f496c9bfba1cca47e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f0c36cce268ff395448bc4c564d54c3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\3ec89d71202a4e42af8bd6670a4def4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\915a82be1b51e5cc8a63c77c3a03c5d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2a044fc63e1418f0e4ff177d8d157936\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\13cc42cde9c43ea1c2fd1f936da438e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6911c560ce7c837ff8062e07edcfd51d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\383f257d34e550b2ddfced80b47a96fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8ba5965f494d3e48eae6095ae641d7ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\67c3e70ae99ecf59b3640a3da318006a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\db8bda035165cfdb743b0037f4ae47fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b2e682f5c0f7c3fdc8a8a251ce1e76ba\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b5136643bf5216f2ccd7090a82c9b7f8\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\48c4931d1768e4fdd532d861c9288e91\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a5ac7e1bf3cdd96f89d88e9cdc3cbcf2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7ded1350c9ea8039ed30ad7a32517bc5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4a564623241b9210389796f59abc3d6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8d28277955d7454fca6e52df7bf3423c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\50871e94555705c16856e8b96c1bb608\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\57589220c54bc98a95fa84e0396fde89\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8a6dd1ed7d1e352e5e6cc384c22638d3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b4d3c6b2bd22f110fa244466dcf3ded2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\90a6a25cdac7ed0a3ef1c055d862208c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [net.gotev:uploadservice:2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\uploadservice-2.1.aar\4eacf42a2f060a1a5d28a0e232051642\AndroidManifest.xml:11:5-67
+MERGED from [net.gotev:uploadservice:2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\uploadservice-2.1.aar\4eacf42a2f060a1a5d28a0e232051642\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:5:22-64
+uses-feature#android.hardware.camera
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:7:5-9:35
+	android:required
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:9:9-32
+	android:name
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:8:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:11:5-81
+MERGED from [net.gotev:uploadservice:2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\uploadservice-2.1.aar\4eacf42a2f060a1a5d28a0e232051642\AndroidManifest.xml:12:5-81
+MERGED from [net.gotev:uploadservice:2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\uploadservice-2.1.aar\4eacf42a2f060a1a5d28a0e232051642\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:13:22-77
+application
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:15:5-37:19
+MERGED from [net.gotev:uploadservice:2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\uploadservice-2.1.aar\4eacf42a2f060a1a5d28a0e232051642\AndroidManifest.xml:15:5-21:19
+MERGED from [net.gotev:uploadservice:2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\uploadservice-2.1.aar\4eacf42a2f060a1a5d28a0e232051642\AndroidManifest.xml:15:5-21:19
+MERGED from [com.williamww:silky-signature:0.1.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\silky-signature-0.1.0.aar\9cb7273ebb8475cafc479876bab4ba16\AndroidManifest.xml:11:5-14:19
+MERGED from [com.williamww:silky-signature:0.1.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\silky-signature-0.1.0.aar\9cb7273ebb8475cafc479876bab4ba16\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d4bc1533589e50c42e86d8d1339f07e1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d4bc1533589e50c42e86d8d1339f07e1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.gcacace:signature-pad:1.2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\signature-pad-1.2.1.aar\42e5ad24c5b4f93977eb0a8c5217ce0f\AndroidManifest.xml:11:5-20
+MERGED from [com.github.gcacace:signature-pad:1.2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\signature-pad-1.2.1.aar\42e5ad24c5b4f93977eb0a8c5217ce0f\AndroidManifest.xml:11:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\bb33191bc238536025a08500caa6624b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\bb33191bc238536025a08500caa6624b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b2e682f5c0f7c3fdc8a8a251ce1e76ba\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b2e682f5c0f7c3fdc8a8a251ce1e76ba\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b5136643bf5216f2ccd7090a82c9b7f8\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b5136643bf5216f2ccd7090a82c9b7f8\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b2e682f5c0f7c3fdc8a8a251ce1e76ba\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:21:9-40
+activity#com.vikki_hacker.dmrc_p.Signature
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:22:9-56
+	android:name
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:22:19-44
+activity#com.vikki_hacker.dmrc_p.Contact_info
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:23:9-50
+	android:name
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:23:19-47
+activity#com.vikki_hacker.dmrc_p.Image
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:24:9-43
+	android:name
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:24:19-40
+activity#com.vikki_hacker.dmrc_p.Orgnization
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:25:9-49
+	android:name
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:25:19-46
+activity#com.vikki_hacker.dmrc_p.Personal
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:26:9-46
+	android:name
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:26:19-43
+activity#com.vikki_hacker.dmrc_p.Start
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:27:9-43
+	android:name
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:27:19-40
+activity#com.vikki_hacker.dmrc_p.Login
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:28:9-43
+	android:name
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:28:19-40
+activity#com.vikki_hacker.dmrc_p.Signup
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:29:9-44
+	android:name
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:29:19-41
+activity#com.vikki_hacker.dmrc_p.MainActivity
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:30:9-36:20
+	android:name
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:30:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml
+MERGED from [net.gotev:uploadservice:2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\uploadservice-2.1.aar\4eacf42a2f060a1a5d28a0e232051642\AndroidManifest.xml:7:5-9:41
+MERGED from [net.gotev:uploadservice:2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\uploadservice-2.1.aar\4eacf42a2f060a1a5d28a0e232051642\AndroidManifest.xml:7:5-9:41
+MERGED from [com.williamww:silky-signature:0.1.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\silky-signature-0.1.0.aar\9cb7273ebb8475cafc479876bab4ba16\AndroidManifest.xml:7:5-9:41
+MERGED from [com.williamww:silky-signature:0.1.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\silky-signature-0.1.0.aar\9cb7273ebb8475cafc479876bab4ba16\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\052ec8ab2ecd003d52b890bb54f36e39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\052ec8ab2ecd003d52b890bb54f36e39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d4bc1533589e50c42e86d8d1339f07e1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d4bc1533589e50c42e86d8d1339f07e1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.gcacace:signature-pad:1.2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\signature-pad-1.2.1.aar\42e5ad24c5b4f93977eb0a8c5217ce0f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.gcacace:signature-pad:1.2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\signature-pad-1.2.1.aar\42e5ad24c5b4f93977eb0a8c5217ce0f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.databinding:adapters:1.2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\adapters-1.2.1.aar\d860d4e07a3f7f87fe34b789f311ec9c\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:adapters:1.2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\adapters-1.2.1.aar\d860d4e07a3f7f87fe34b789f311ec9c\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\library-1.2.1.aar\46131ed66e0c03adaca799136e216aec\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\library-1.2.1.aar\46131ed66e0c03adaca799136e216aec\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\55a0fb8f4f7c0dfa12c56ff878423f10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\55a0fb8f4f7c0dfa12c56ff878423f10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\bb33191bc238536025a08500caa6624b\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\bb33191bc238536025a08500caa6624b\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c20d1d232d929dd8a92a93f2aa1f6548\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c20d1d232d929dd8a92a93f2aa1f6548\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a16c11b32302efb2eca2e683ed71f0d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a16c11b32302efb2eca2e683ed71f0d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f5120be50af7cf76c3de553f075b1483\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f5120be50af7cf76c3de553f075b1483\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3edfc0f4fd35f85f496c9bfba1cca47e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3edfc0f4fd35f85f496c9bfba1cca47e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f0c36cce268ff395448bc4c564d54c3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f0c36cce268ff395448bc4c564d54c3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\3ec89d71202a4e42af8bd6670a4def4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\3ec89d71202a4e42af8bd6670a4def4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\915a82be1b51e5cc8a63c77c3a03c5d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\915a82be1b51e5cc8a63c77c3a03c5d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2a044fc63e1418f0e4ff177d8d157936\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2a044fc63e1418f0e4ff177d8d157936\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\13cc42cde9c43ea1c2fd1f936da438e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\13cc42cde9c43ea1c2fd1f936da438e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6911c560ce7c837ff8062e07edcfd51d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6911c560ce7c837ff8062e07edcfd51d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\383f257d34e550b2ddfced80b47a96fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\383f257d34e550b2ddfced80b47a96fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8ba5965f494d3e48eae6095ae641d7ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8ba5965f494d3e48eae6095ae641d7ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\67c3e70ae99ecf59b3640a3da318006a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\67c3e70ae99ecf59b3640a3da318006a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\db8bda035165cfdb743b0037f4ae47fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\db8bda035165cfdb743b0037f4ae47fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b2e682f5c0f7c3fdc8a8a251ce1e76ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b2e682f5c0f7c3fdc8a8a251ce1e76ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b5136643bf5216f2ccd7090a82c9b7f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b5136643bf5216f2ccd7090a82c9b7f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\48c4931d1768e4fdd532d861c9288e91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\48c4931d1768e4fdd532d861c9288e91\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a5ac7e1bf3cdd96f89d88e9cdc3cbcf2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a5ac7e1bf3cdd96f89d88e9cdc3cbcf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7ded1350c9ea8039ed30ad7a32517bc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7ded1350c9ea8039ed30ad7a32517bc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4a564623241b9210389796f59abc3d6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4a564623241b9210389796f59abc3d6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8d28277955d7454fca6e52df7bf3423c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8d28277955d7454fca6e52df7bf3423c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\50871e94555705c16856e8b96c1bb608\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\50871e94555705c16856e8b96c1bb608\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\57589220c54bc98a95fa84e0396fde89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\57589220c54bc98a95fa84e0396fde89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8a6dd1ed7d1e352e5e6cc384c22638d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8a6dd1ed7d1e352e5e6cc384c22638d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b4d3c6b2bd22f110fa244466dcf3ded2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b4d3c6b2bd22f110fa244466dcf3ded2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\90a6a25cdac7ed0a3ef1c055d862208c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\90a6a25cdac7ed0a3ef1c055d862208c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VIKAS VERMA\Desktop\DMRC_P\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [net.gotev:uploadservice:2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\uploadservice-2.1.aar\4eacf42a2f060a1a5d28a0e232051642\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from [net.gotev:uploadservice:2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\uploadservice-2.1.aar\4eacf42a2f060a1a5d28a0e232051642\AndroidManifest.xml:13:22-65
+service#net.gotev.uploadservice.UploadService
+ADDED from [net.gotev:uploadservice:2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\uploadservice-2.1.aar\4eacf42a2f060a1a5d28a0e232051642\AndroidManifest.xml:16:9-20:19
+	android:enabled
+		ADDED from [net.gotev:uploadservice:2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\uploadservice-2.1.aar\4eacf42a2f060a1a5d28a0e232051642\AndroidManifest.xml:18:13-35
+	android:exported
+		ADDED from [net.gotev:uploadservice:2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\uploadservice-2.1.aar\4eacf42a2f060a1a5d28a0e232051642\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from [net.gotev:uploadservice:2.1] C:\Users\VIKAS VERMA\.gradle\caches\transforms-1\files-1.1\uploadservice-2.1.aar\4eacf42a2f060a1a5d28a0e232051642\AndroidManifest.xml:17:13-65
